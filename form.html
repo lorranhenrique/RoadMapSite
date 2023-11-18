@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+        <link rel="Stylesheet" href="Form.css">
+</head>
+<body>
+    <p>Formulário</p>
+
+    <form action="https://jkorpela.fi/cgi-bin/echo.cgi" method="POST">
+        <label for="nome">Nome:</label>
+        <input type="text" name="nome" id="nome"><br>
+
+        <label for="idade">Idade:</label>
+        <input type="number" name="idade" id="idade"><br>
+
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email"><br>
+
+        <label for="preferencias">Compraria o nosso curso?</label><br>
+        <label for="sim">Sim</label>
+        <input type="checkbox" name="sim" id="sim">
+        <label for="nao">Não</label>
+        <input type="checkbox" name="" id=""><br><br>
+
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar Formulário">
+    
+    </form>
+
+    <a href="index.html">Voltar a página</a>
+</body>
+</html>
