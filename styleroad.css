@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(95, 19, 95);
+    background-color: rgb(66, 38, 105);
 }
 
 h1{
@@ -22,8 +22,8 @@ h1{
 }
 
 #clienteeServidor{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(103, 130, 153);
@@ -31,8 +31,8 @@ h1{
 }
 
 #MatematicaDosJogos{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(105, 180, 151);
@@ -41,8 +41,8 @@ h1{
 }
 
 #FisicaDosJogos{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(132, 210, 120);
@@ -50,8 +50,8 @@ h1{
 }
 
 #MotoresGraficos{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(169, 215, 76);
@@ -59,8 +59,8 @@ h1{
 }
 
 #LinguagensDeProgramacao{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(202, 202, 27);
@@ -68,8 +68,8 @@ h1{
 }
 
 #GraficosDeComputadores{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(200, 183, 57);
@@ -77,8 +77,8 @@ h1{
 }
 
 #GraficosParaAPI{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(222, 135, 35);
@@ -86,8 +86,8 @@ h1{
 }
 
 #IADeJogos{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(217, 69, 20);
@@ -95,8 +95,8 @@ h1{
 }
 
 #RenderizaçãoAvancada{
+    box-shadow: 10px 10px 10px rgb(2, 2, 82);
     color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: 24px;
     background-color: rgb(250, 6, 6);

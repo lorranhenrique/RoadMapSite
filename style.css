@@ -2,40 +2,41 @@ body{
     background-color: rgb(106, 129, 177);
 }
 header{
-    background-color: rgb(32, 58, 61);
+    background-color: rgb(32, 47, 61);
     border-radius: 150;
     padding: 1px;
     color: rgb(255, 255, 255);
     text-align: center;
     font: normal 20pt arial;
-    box-shadow: 5px 5px 10px rgb(20, 63, 52);
+    box-shadow: 5px 5px 10px rgb(20, 39, 63);
 }
 section{
     margin: auto;
-    background-color: rgb(71, 161, 127);
+    background-color: rgb(71, 114, 161);
     color: rgb(255, 255, 255);
     font: normal 15pt arial;
     text-align: center;
-    box-shadow: 5px 5px 10px rgb(29, 87, 79);
+    box-shadow: 5px 5px 10px rgb(29, 67, 87);
 }
 div{
     text-align: center;
     font:normal 18pt arial ;
     color: rgb(251, 255, 28);
-    background-color: rgb(64, 127, 129);
-    box-shadow: 5px 5px 10px rgb(26, 92, 65) ;
+    background-color: rgb(54, 88, 136);
+    box-shadow: 5px 5px 10px rgb(58, 26, 92) ;
     padding: 8px;
-    border-radius: 150px;
     
 }
 footer{
+    color: aliceblue;
+    font-size: 20px;
     text-align: center;
-    background-color: rgb(231, 182, 46);
+    background-color: rgb(46, 172, 231);
 }
 
 #atari{
     padding-top: 20px ;
-    background-color: rgb(26, 92, 65);
+    background-color: rgb(26, 46, 92);
     border-radius: 50px 50px 50px;
-    box-shadow: 6px 6px rgb(16, 58, 41);
+    box-shadow: 6px 6px rgb(16, 34, 58);
 }
