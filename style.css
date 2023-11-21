@@ -40,3 +40,7 @@ footer{
     border-radius: 50px 50px 50px;
     box-shadow: 6px 6px rgb(16, 34, 58);
 }
+
+a{
+    text-decoration: none;
+}
