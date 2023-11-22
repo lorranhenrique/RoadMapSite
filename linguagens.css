@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(214, 230, 172);
+    background-color: rgb(69, 112, 173);
 }
 
 h1{
@@ -8,7 +8,6 @@ h1{
     background-color: rgb(231, 188, 95);
     border-radius: 30px 30px;
     font-family: 'Courier New', Courier, monospace;
-    border-color: aliceblue;
     margin: 25px;
 }
 
