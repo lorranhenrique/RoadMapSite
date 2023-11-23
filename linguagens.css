@@ -37,4 +37,9 @@ button{
     box-shadow: 5px 5px rgb(180, 81, 32);
     color: aliceblue;
     border-color: yellow;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
 }
