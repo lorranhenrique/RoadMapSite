@@ -1,0 +1,39 @@
+body{
+    background-color: blueviolet;
+
+}
+
+h1{
+    background-color: rgb(255, 192, 247);
+    color: rgb(42, 29, 0);
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(233, 79, 213);
+    padding: 15px ;
+}
+
+
+a{
+    background-color: purple;
+    color: aliceblue;
+    font-size: 25PX;
+    border-radius: 10px 10px ;
+    box-shadow: 7px 7px 7px rgb(76, 0, 76);
+}
+p{
+    background-color: rgb(255, 171, 248);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 3px 5px purple;
+}
+
+button{
+    background-color: rgb(235, 47, 248);
+    box-shadow: 5px 5px rgb(180, 32, 111);
+    color: aliceblue;
+    border-color: rgb(242, 0, 255);
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
