@@ -9,6 +9,8 @@ header{
     text-align: center;
     font: normal 20pt arial;
     box-shadow: 5px 5px 10px rgb(20, 39, 63);
+    border-radius: 10px 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
 section{
     margin: auto;
@@ -16,15 +18,17 @@ section{
     color: rgb(255, 255, 255);
     font: normal 15pt arial;
     text-align: center;
-    box-shadow: 5px 5px 10px rgb(29, 67, 87);
+    box-shadow: 5px 5px 10px rgb(5, 35, 51);
 }
 div{
     text-align: center;
     font:normal 18pt arial ;
     color: rgb(251, 255, 28);
-    background-color: rgb(54, 88, 136);
-    box-shadow: 5px 5px 10px rgb(58, 26, 92) ;
+    background-color: rgb(58, 54, 136);
+    box-shadow: 5px 5px  rgb(49, 13, 91) ;
     padding: 8px;
+    font-family:'Courier New', Courier, monospace ;
+    border-radius: 10px 10px;
     
 }
 footer{
@@ -43,4 +47,15 @@ footer{
 
 a{
     text-decoration: none;
+    color: rgb(212, 16, 212);
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#form{
+    background-color: rgb(37, 22, 112);
+    box-shadow: 5px 5px rgb(15, 15, 43);
+    border-radius: 10px 10px 10px;
 }
