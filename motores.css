@@ -17,13 +17,13 @@ a{
     color: aliceblue;
     font-size: 25PX;
     border-radius: 10px 10px ;
-    box-shadow: 7px 7px 7px rgb(76, 0, 76);
+    box-shadow: 10px 10px 7px rgb(76, 0, 76);
 }
 p{
     background-color: rgb(255, 171, 248);
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
-    box-shadow: 3px 5px purple;
+    box-shadow: 10px 10px rgb(81, 4, 81);
 }
 
 button{
