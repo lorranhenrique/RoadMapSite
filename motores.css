@@ -1,15 +1,17 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(131, 43, 226);
 
 }
 
 h1{
-    background-color: rgb(255, 192, 247);
+    background-color: rgb(135, 34, 153);
     color: rgb(42, 29, 0);
     text-align: center;
-    box-shadow: 5px 5px 5px rgb(233, 79, 213);
+    box-shadow: 5px 5px 5px rgb(54, 13, 49);
     padding: 15px ;
     border-radius: 30px 30px 30px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -19,9 +21,10 @@ a{
     font-size: 25PX;
     border-radius: 10px 10px ;
     box-shadow: 10px 10px 7px rgb(76, 0, 76);
+    font-family:fantasy;
 }
 p{
-    background-color: rgb(255, 171, 248);
+    background-color: rgb(234, 171, 255);
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     box-shadow: 10px 10px rgb(81, 4, 81);
