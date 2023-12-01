@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(91, 65, 209);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(255, 195, 112);
+    color: aliceblue;
+    border-radius: 10px 10px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px;
+    
+}
+
+a{
+    background-color: rgb(255, 198, 112);
+    box-shadow: 7px 7px rgb(33, 0, 87);
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 50px 50px 50px;
+}
+
+p{
+    background-color: rgb(60, 26, 114);
+    font-size: 21px;
+    font-family:cursive ;
+    color:bisque;
+    border-style:ridge;
+    border-radius: 8px 8px;
+    border-color: rgb(255, 153, 0);
+    box-shadow: 10px 10px 10px rgb(145, 146, 255);
+}
+
+button{
+    background-color: rgb(65, 56, 172);
+    box-shadow: 5px 5px rgb(68, 18, 109);
+    color: aliceblue;
+    border-color: rgb(0, 94, 255);
+    text-align: center;
+}
+
+
+footer{
+    text-align: center;
+}
