@@ -1,4 +1,44 @@
 body{
     background-color: rgb(115, 152, 231);
     font-size: larger;
+    justify-content: center;
+}
+
+a{
+    background-color: rgb(145, 61, 171);
+    border-radius: 10px 10px 10px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 5px 5px black;
+}
+
+label{
+    color: rgb(255, 208, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div{
+    text-align: center;
+    background-color: rgb(69, 40, 138);
+    border-radius: 20px 20px;
+    box-shadow: 5px 5px 5px rgb(50, 0, 50);
+    border-style: double;
+}
+
+#limpar{
+    background-color: rgb(145, 61, 171);
+    color: aliceblue;
+    border-radius: 10px 10px;
+}
+
+#enviar{
+    background-color: rgb(145, 61, 171);
+    color: aliceblue;
+    border-radius: 10px 10px;
+}
+
+button{
+    background-color: rgb(145, 61, 171);
+    color: aliceblue;
+    border-color: yellow;
 }

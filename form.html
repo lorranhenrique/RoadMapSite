@@ -7,7 +7,9 @@
         <link rel="Stylesheet" href="Form.css">
 </head>
 <body>
-    <p>Formulário</p>
+
+    <div>
+        <a>Formulário</a><br><br>
 
     <form action="https://jkorpela.fi/cgi-bin/echo.cgi" method="POST">
         <label for="nome">Nome:</label>
@@ -25,11 +27,16 @@
         <label for="nao">Não</label>
         <input type="checkbox" name="" id=""><br><br>
 
-        <input type="submit" value="Enviar">
-        <input type="reset" value="Limpar Formulário">
+        <input type="submit" value="Enviar" id="enviar">
+        <input type="reset" value="Limpar Formulário" id="limpar">
     
     </form>
+        <footer>
+            <button onclick="history.back()">Retornar</button>
+        </footer>
+    </div>
 
-    <a href="index.html">Voltar a página</a>
+    
+    
 </body>
 </html>
