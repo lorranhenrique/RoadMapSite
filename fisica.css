@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(224, 214, 147);
+    background-color: rgb(174, 224, 147);
     
 }
 
@@ -16,13 +16,13 @@ a{
 }
 h2{
     text-align: center;
-    background-color: rgb(240, 201, 62);
+    background-color: rgb(255, 212, 57);
     padding: 25px;
-    color: rgb(9, 128, 88);
+    color: rgb(6, 121, 79);
     border-radius: 50px 0px 50px;
     border-style: groove;
     border-color: rgb(67, 142, 117);
-    font-size: 37px;
+    font-size: 44px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
