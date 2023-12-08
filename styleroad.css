@@ -28,6 +28,7 @@ h1{
     font-size: 24px;
     background-color: rgb(103, 130, 153);
     margin: 200px;
+    border-radius: 5px 5px;
 }
 
 #MatematicaDosJogos{
@@ -37,6 +38,7 @@ h1{
     font-size: 24px;
     background-color: rgb(105, 180, 151);
     margin: 50px;
+    border-radius: 5px 5px;
     
 }
 
@@ -47,6 +49,7 @@ h1{
     font-size: 24px;
     background-color: rgb(132, 210, 120);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 #MotoresGraficos{
@@ -56,6 +59,7 @@ h1{
     font-size: 24px;
     background-color: rgb(169, 215, 76);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 #LinguagensDeProgramacao{
@@ -65,6 +69,7 @@ h1{
     font-size: 24px;
     background-color: rgb(202, 202, 27);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 #GraficosDeComputadores{
@@ -74,6 +79,7 @@ h1{
     font-size: 24px;
     background-color: rgb(200, 183, 57);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 #GraficosParaAPI{
@@ -83,6 +89,7 @@ h1{
     font-size: 24px;
     background-color: rgb(222, 135, 35);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 #IADeJogos{
@@ -92,6 +99,7 @@ h1{
     font-size: 24px;
     background-color: rgb(217, 69, 20);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 #RenderizaçãoAvancada{
@@ -101,6 +109,7 @@ h1{
     font-size: 24px;
     background-color: rgb(250, 6, 6);
     margin: 50px;
+    border-radius: 5px 5px;
 }
 
 footer{
